@@ -11,13 +11,13 @@ The system accepts an image and a user question, then provides:
 - Safety Recommendations
 
 This project was developed as part of the Edxso AI Engineer Internship Assignment.
-
+Video Explaination : https://drive.google.com/file/d/1NIhTi6ZNJhtO55teu7F1udJfOA651lH5/view?usp=sharing
 ---
 Images:
 <img width="708" height="851" alt="Screenshot 2026-06-27 141118" src="https://github.com/user-attachments/assets/43d06f94-477c-4226-9ed3-5aaeb5120785" />
+<img width="1011" height="860" alt="Screenshot 2026-06-27 141350" src="https://github.com/user-attachments/assets/f4aef86c-e81a-44cc-b580-d15710e5ac3d" />
+<img width="988" height="396" alt="Screenshot 2026-06-27 141410" src="https://github.com/user-attachments/assets/f80ca8fe-61b0-4d4a-9133-01ee85dce527" />
 
-<img width="463" height="612" alt="Screenshot 2026-06-27 141147" src="https://github.com/user-attachments/assets/a9d71ac9-b7bf-4ee4-8b40-015c7f3918fe" />   <img width="1011" height="860" alt="Screenshot 2026-06-27 141350" src="https://github.com/user-attachments/assets/f4aef86c-e81a-44cc-b580-d15710e5ac3d" />
- 
 
 
 ## Features
