@@ -16,7 +16,8 @@ This project was developed as part of the Edxso AI Engineer Internship Assignmen
 Images:
 <img width="708" height="851" alt="Screenshot 2026-06-27 141118" src="https://github.com/user-attachments/assets/43d06f94-477c-4226-9ed3-5aaeb5120785" />
 
-<img width="463" height="612" alt="Screenshot 2026-06-27 141147" src="https://github.com/user-attachments/assets/a9d71ac9-b7bf-4ee4-8b40-015c7f3918fe" />
+<img width="463" height="612" alt="Screenshot 2026-06-27 141147" src="https://github.com/user-attachments/assets/a9d71ac9-b7bf-4ee4-8b40-015c7f3918fe" />   <img width="1011" height="860" alt="Screenshot 2026-06-27 141350" src="https://github.com/user-attachments/assets/f4aef86c-e81a-44cc-b580-d15710e5ac3d" />
+ 
 
 
 ## Features
