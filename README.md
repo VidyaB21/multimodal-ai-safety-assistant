@@ -13,7 +13,11 @@ The system accepts an image and a user question, then provides:
 This project was developed as part of the Edxso AI Engineer Internship Assignment.
 
 ---
-Live Demo : https://vidyab21-multimodal-ai-multimodal-ai-safety-assistantapp-hzault.streamlit.app/
+Images:
+<img width="708" height="851" alt="Screenshot 2026-06-27 141118" src="https://github.com/user-attachments/assets/43d06f94-477c-4226-9ed3-5aaeb5120785" />
+
+<img width="463" height="612" alt="Screenshot 2026-06-27 141147" src="https://github.com/user-attachments/assets/a9d71ac9-b7bf-4ee4-8b40-015c7f3918fe" />
+
 
 ## Features
 
