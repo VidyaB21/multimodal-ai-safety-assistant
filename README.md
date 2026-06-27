@@ -11,6 +11,7 @@ The system accepts an image and a user question, then provides:
 - Safety Recommendations
 
 This project was developed as part of the Edxso AI Engineer Internship Assignment.
+
 Video Explaination : https://drive.google.com/file/d/1NIhTi6ZNJhtO55teu7F1udJfOA651lH5/view?usp=sharing
 ---
 Images:
